@@ -1,4 +1,6 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/sitemap.svg" card_color="#22A7F0" width="50" height="50" style="vertical-align:bottom"/> Moonlight Embedded
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/sitemap.svg" card_color="#22A7F0" width="50" height="50" style="vertical-align:bottom"/> [Mycroft] Moonlight Embedded
+Pre-Alpha
+
 Opensource implementation of nvidia's gamestream that allows you to stream games (programs i.g.) from gfe compatible computers
 
 ## About
