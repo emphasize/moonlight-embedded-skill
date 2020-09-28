@@ -3,11 +3,12 @@ skillMetadata:
   sections:
     - name: Options << Name of section
       fields:
-        - name: internal_python_variable_name
+        # i don't know if it's beneficial to drag hostnames through the internet
+        - name: host
           type: text
-          label: Setting Friendly Display Name
+          label: The host you want to connect to
           value: ""
-          placeholder: demo prompt in the input box
+          placeholder: Network adress
     - name: Login << Name of another section
       fields:
         - type: label
